@@ -23,6 +23,6 @@ O objetivo é evoluir o projeto **gradualmente**, tornando-o uma referência de 
 
 ---
 
-## 📜 Exemplo de Comandos
+## 📜 Exemplo de Comando
 ```bash
 >> exit        # Desconecta do servidor
